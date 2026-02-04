@@ -82,7 +82,7 @@ func banner() {
 ██████╔╝██║  ██║██║  ██║██║  ██╗   ██║   ██║  ██║╚██████╔╝███████║   ██║
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝
 ` + X)
-	fmt.Println(C + "DarkTrust — Android MITM Manager (FINAL RC Modern Magisk)\n" + X)
+	fmt.Println(C + "DarkTrust — Android MITM Manager ( w0rmer )\n" + X)
 }
 
 /* ---------- DEVICE ---------- */
